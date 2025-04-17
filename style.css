@@ -230,7 +230,7 @@ h1 {
     margin-bottom: 1px;
 }
 
-/* ================= RESPONSIVE BREAKPOINTS ================= */
+
 
 @media (max-width: 768px) {
     h1 {
@@ -262,7 +262,7 @@ h1 {
     }
 
     .form-container input {
-        width: 100%;
+        width: 70%;
     }
 
     .parameter {
